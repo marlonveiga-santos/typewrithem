@@ -30,8 +30,8 @@ If you need change the behavior or multiple effects on the same page, you can cu
 ```js
 // It's the same for typewrithemReverse() !
 typewrithem({
-target:'.typewrithem' // String: this target can be tags, classes or id's.
-delay: 95 // Number: The time in milliseconds what the letter will appear or disappear.
+target:'.typewrithem', // String: this target can be tags, classes or id's.
+delay: 95, // Number: The time in milliseconds what the letter will appear or disappear.
 caret: '|' // String: The simbol who represents and active line of input. It accepts any string input so, use your imagination ;)
 })
 ```
