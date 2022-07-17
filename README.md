@@ -5,7 +5,7 @@
 You can can download the minified file or use JsDelivir "greeper" tag to remote delivery:
 
 ```HTML 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/marlonveiga-santos/typewrithem/typewrithem.min.js" defer></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/mvsant/typewrithem/typewrithem.min.js" defer></script>
 ```
 
 **Note:** The code is provided as a simple js file, not as a module.
