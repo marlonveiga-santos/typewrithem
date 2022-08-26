@@ -37,20 +37,18 @@ delay: 95, // Number: The time in milliseconds what the character will appear or
 caret: '|' // String: The simbol who represents an active line of input. It accepts any string input so, use your imagination ;)
 });
 ```
-Soon I want to put a caretDelay option for delay blink.
+
 It's recommended the use of ID for tags who will use typewrithem.
 
 ## Two cents about styling
 
-The page style is purposely inserted inside the style tag via a string literal. 
-This is so that the primary styling control is created entirely through the Javascript file, in addition to keeping all the necessary resources within a single file. This shape also allows for easy styling via a simple CSS file.
-However, this solution may change in the future, through the creation of a new file without this dependency feature, which may make the CSS writing process necessary.
+On version 2, all changes rely on JS functions. Version 2 is also lighter than before.
 
 ## Acknowledgements
 
 ## Todo
-- Refactor code as possible. (on hold)
-- Create a CSS detached version.(on hold)
+- caretDelay option.
+- Rewrite effect.
 - Aknowledgements.
 
 SOON...
