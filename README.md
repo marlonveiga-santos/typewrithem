@@ -6,6 +6,7 @@ You can can download the minified file or use JsDelivir "greeper" tag to remote 
 
 ```HTML 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/mvsant/typewrithem/typewrithem.min.js" defer></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/mvsant/typewrithem/typewrithem.min.css" defer></script>
 ```
 
 **Note:** The code is provided as a simple js file, not as a module.
@@ -42,7 +43,9 @@ It's recommended the use of ID for tags who will use typewrithem.
 
 ## Two cents about styling
 
-On version 2, all changes rely on JS functions. Version 2 is also lighter than before.
+On version 2.1, all changes rely on JS functions and a little bit of css because it's impossible to pure Javascript handle pseudoelements. 
+
+Version 2 is also lighter than before.
 
 ## Acknowledgements
 
