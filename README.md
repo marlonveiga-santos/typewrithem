@@ -6,7 +6,7 @@ You can can download the minified file or use JsDelivir "greeper" tag to remote 
 
 ```HTML 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/mvsant/typewrithem/typewrithem.min.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/mvsant/typewrithem/typewrithem.min.css"></script>
+<link href="https://cdn.jsdelivr.net/gh/mvsant/typewrithem/typewrithem.min.css" rel="stylesheet"></script>
 ```
 
 **Note:** The code is provided as a simple js file, not as a module.
